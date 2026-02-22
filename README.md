@@ -101,6 +101,10 @@ ________________________________________
 ✅ Final Model Selection
 
 Gradient Boosting with ROS200 was selected as the final model due to its superior balance between precision and recall across all failure classes.
+
+<img width="407" height="308" alt="CM_Gradient_Boosting_ROS200_png" src="https://github.com/user-attachments/assets/9b458595-cc9b-4ad4-a775-6832b3e7fa71" />
+
+
 ________________________________________
 🚀 Technologies Used
 
