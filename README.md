@@ -87,6 +87,10 @@ Rank	Model	Sampling	Accuracy	Precision	Recall	F1-Score
 
 <img width="491" height="127" alt="image" src="https://github.com/user-attachments/assets/aed47198-dcbe-4f69-97d4-a9c37430c17c" />
 
+
+<img width="1001" height="902" alt="model_comparison" src="https://github.com/user-attachments/assets/05e15111-083b-4347-a7df-a709f8f88ff1" />
+
+
 ________________________________________
 📌 Key Insights
 
@@ -102,7 +106,7 @@ ________________________________________
 
 Gradient Boosting with ROS200 was selected as the final model due to its superior balance between precision and recall across all failure classes.
 
-<img width="407" height="308" alt="CM_Gradient_Boosting_ROS200_png" src="https://github.com/user-attachments/assets/9b458595-cc9b-4ad4-a775-6832b3e7fa71" />
+<img width="506" height="407" alt="CM_Gradient_Boosting_ROS200_png" src="https://github.com/user-attachments/assets/9b458595-cc9b-4ad4-a775-6832b3e7fa71" />
 
 
 ________________________________________
